@@ -18,7 +18,7 @@
 ### 2020 The present and future of financial mobile malware
 
 - The present and future of financial mobile malware - FSI Intelligence Report
-- [IOC List](https://pastebin.com/raw/38CdrRHR) / [mirror](https://raw.githubusercontent.com/fsi-cert/security-intelligence-report/master/2020B/IOC_list.txt) 
+- [IOC List](https://pastebin.com/raw/38CdrRHR) / [mirror](https://bit.ly/fsi-cert-2020b) 
 
 
 
